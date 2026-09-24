@@ -26,5 +26,3 @@ Actualmente trabajo en **Osmosense**, una plataforma geoespacial para monitorear
 ## Perfil profesional
 
 Me interesa participar en equipos donde pueda aportar en desarrollo backend o Full Stack, ingeniería de datos e inteligencia artificial aplicada. Busco construir software mantenible, bien documentado y respaldado por pruebas automatizadas.
-
-Estoy abierto a oportunidades en español, tanto presenciales como remotas.
